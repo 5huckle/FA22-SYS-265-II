@@ -1,1 +1,1 @@
-hostname
+jibreel-adm
